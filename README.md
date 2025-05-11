@@ -1,10 +1,10 @@
 # Olá, eu sou a Emilly! 👩‍💻
 
-Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará projetos que refletem minha jornada como desenvolvedora full-stack, principalmente com **PHP**, **SQL**, **JavaScript**, **TailwindCSS** e outras tecnologias. Sou apaixonada por arquitetura e desenvolvimento de software, e estou sempre buscando melhorar minhas habilidades e aprender novas ferramentas e técnicas.
+Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará projetos que refletem minha jornada como desenvolvedora full-stack, principalmente com **PHP**, **Laravel**, **SQL**, **JavaScript**, **TailwindCSS** e outras tecnologias. Sou apaixonada por arquitetura e desenvolvimento de software, e estou sempre buscando melhorar minhas habilidades e aprender novas ferramentas e técnicas.
 
 ## 🚀 Sobre mim
 
-- 💻 **Desenvolvedora Full-Stack** com experiência em **PHP**, **SQL**, **JavaScript**, **TailwindCSS** e **C#**.
+- 💻 **Desenvolvedora Full-Stack** com experiência em **PHP**, **Laravel**, **SQL**, **JavaScript** e **TailwindCSS**.
 - 🎓 Estudante de **Sistemas de Informação para Internet** no **IFES**.
 - 💼 Freelancer há mais de 2 anos, desenvolvendo soluções para pequenos e médios negócios.
 - 📚 Sempre em busca de novos desafios e aprendizados, com foco em melhorar minha expertise em **Laravel**, **Vue.js** e **Docker**.
@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui, você encontrará projetos que refletem
 ## 🏆 Projetos em Destaque
 
 ### 🚀 [FastStok](https://github.com/3mil1y/faststok)
-Um sistema de controle de estoque desenvolvido com **PHP**, **SQL**, **JavaScript** e **TailwindCSS**, focado na gestão eficiente de produtos, movimentações e relatórios. Atualmente, o projeto está sendo finalizado para ser usado em tablets e dispositivos móveis.
+Um sistema WMS desenvolvido com **PHP**, **SQL**, **JavaScript** e **TailwindCSS**, em arquitetura MVC personalizada, focado na gestão eficiente de produtos, movimentações e relatórios. Atualmente, o projeto está em estágio de validação para ser usado em tablets e dispositivos móveis.
 
 ## 🎯 Objetivos
 
